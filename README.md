@@ -3,7 +3,7 @@
 
 Is small **vue** application for pick the **random winner** from list of contestans with setting page.
   
-  ![LIVE DEMO](http://vue.mcore.sk/)
+  [LIVE DEMO](http://vue.mcore.sk/)
 
   ![Vue Winner Picker](http://vue.mcore.sk/img/winner-picker-01.png)
   ![Setting Winner Picker](http://vue.mcore.sk/img/winner-picker-02.png)
@@ -39,5 +39,4 @@ MIT license
 
 If you want to support me buy me a beer or coffee
 
-[Buy me a beer]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CTVR3KETLZS9L&source=url)
+[Buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CTVR3KETLZS9L&source=url)
