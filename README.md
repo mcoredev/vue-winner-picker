@@ -7,14 +7,12 @@ Is small **vue** application for pick the **random winner** from list of contest
 
   ![Vue Winner Picker](http://vue.mcore.sk/img/winner-picker-01.png)
 
-
 ## Setting page
 
-  ![Setting Winner Picker](http://vue.mcore.sk/img/winner-picker-02.png)
-  
  - set title
  - set description
  - set list contestant (textarea) or external source of JSON
+ ![Setting Winner Picker](http://vue.mcore.sk/img/winner-picker-02.png)
  
  Set contestants in textarea must be each row one contestant name
  
