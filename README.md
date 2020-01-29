@@ -30,3 +30,14 @@ JSON format data
 	...
 ]
 ```
+
+## License 
+
+MIT license
+
+## Donate
+
+If you want to support me buy me a beer or coffee
+
+[Buy me a beer]
+(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CTVR3KETLZS9L&source=url)
