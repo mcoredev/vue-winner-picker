@@ -39,4 +39,4 @@ MIT license
 
 If you want to support me buy me a beer or coffee
 
-[Buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CTVR3KETLZS9L&source=url)
+[Buy me a beer / coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CTVR3KETLZS9L&source=url)
