@@ -1,7 +1,7 @@
 
 # About Winner Picker
 
-Is small **vue** application for pick the **random winner** from list of contestans with setting page.
+Is small **vue** application for pick the **random winner** from list of contestans with setting page. May you implement it for your clients or can using for social network competition.
   
   [LIVE DEMO](http://vue.mcore.sk/)
 
