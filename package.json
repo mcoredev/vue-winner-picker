@@ -1,0 +1,22 @@
+{
+  "name": "vue-winner-picker",
+  "version": "1.0.0",
+  "description": "App for pick the random winner from list of contestans.",
+  "main": "index.js",
+  "dependencies": {
+    "@vue/cli-service": "^4.1.2",
+    "npm": "^6.9.2",
+    "vue": "^2.6.11",
+    "vue-cli": "^2.9.6",
+    "vue-router": "^3.1.5",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "author": "MCORE",
+  "license": "MIT"
+}
