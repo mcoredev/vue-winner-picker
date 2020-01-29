@@ -3,8 +3,8 @@
 
 Is small **vue** application for pick the **random winner** from list of contestans with setting page.
   
-  [Vue Winner Picker](http://vue.mcore.sk/img/winner-picker-01.png)
-  [Setting Winner Picker](http://vue.mcore.sk/img/winner-picker-02.png)
+  ![Vue Winner Picker](http://vue.mcore.sk/img/winner-picker-01.png)
+  ![Setting Winner Picker](http://vue.mcore.sk/img/winner-picker-02.png)
 
 ## Setting page
 
